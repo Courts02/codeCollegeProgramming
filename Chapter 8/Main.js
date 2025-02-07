@@ -27,8 +27,11 @@
 //    }
 //    doubles(5) + double(6)
 
-var doubles = function (number) {
-   var dNumber = number *= 2
-   return dNumber
-}
+// var doubles = function (number) {
+//    var dNumber = number *= 2
+//    return dNumber
+// }
 
+var returnFunction = function() {
+   return "hello";
+}
